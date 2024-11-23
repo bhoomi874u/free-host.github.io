@@ -1,1 +1,1 @@
-# free-host.github.io
+# freehost.github.io
